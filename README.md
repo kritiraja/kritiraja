@@ -1,4 +1,4 @@
-# Hi, I'm Kriti Raja, a Computer Science student with a passion for data analysis. 
+## Hi, I'm Kriti Raja, a Computer Science student with a passion for data analysis and machine learning.
 
 ## Here are some projects I've worked on:
 - **[Steam Games Data Analysis](https://github.com/kritiraja/SC1015_Steam_Game_Analysis.git)**: Analyzed factors impacting Steam video game ratings using pandas and machine learning models.
