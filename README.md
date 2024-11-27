@@ -1,4 +1,4 @@
-## Hi, I'm Kriti Raja, a CS sophomore at UT Dallas who's interested in data analysis
+## Hi, I'm Kriti Raja, a CS sophomore at UT Dallas
 
 ## Here are some projects I've worked on:
 - **[PSA Hackathon](https://github.com/Oganesson0221/PSA_CodeSprint.git)**: Developed a web app to track the relationship between work-life balance and mental illness
