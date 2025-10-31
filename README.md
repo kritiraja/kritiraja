@@ -1,7 +1,7 @@
 ## Hi, I'm Kriti Raja, a CS sophomore at UT Dallas
 
 ## Here are some projects I've worked on:
--**[CompresSVD](https://github.com/ammiller224/CompresSVD)**: Task-Agnostic Extractive Prompt Compression via SVD-Aware Token Pruning in Compressed Large Language Models
+- **[CompresSVD](https://github.com/ammiller224/CompresSVD)**: Task-Agnostic Extractive Prompt Compression via SVD-Aware Token Pruning in Compressed Large Language Models
 - **[Reading-MLK](https://github.com/UTDallasEPICS/Reading-MLK)**: Worked on 2FA Email verification for web app
 - **[MIPS multiplier game](https://github.com/kritiraja/mipsmultiplier)**: One-player multiplier game coded in MIPS assembly language
 - **[PSA Hackathon](https://github.com/Oganesson0221/PSA_CodeSprint.git)**: Developed a web app to track the relationship between work-life balance and mental illness
