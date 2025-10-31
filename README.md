@@ -1,4 +1,4 @@
-## Hi, I'm Kriti Raja, a CS junior at UT Dallas
+## Hi! I'm Kriti Raja, a CS junior at UT Dallas
 
 ## Here are some projects I've worked on:
 - **[CompresSVD](https://github.com/ammiller224/CompresSVD)**: Task-Agnostic Extractive Prompt Compression via SVD-Aware Token Pruning in Compressed Large Language Models
