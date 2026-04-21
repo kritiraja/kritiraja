@@ -34,13 +34,34 @@ I am an AI Engineer passionate about building AI-driven systems that turn raw da
 
 <p>Not just classes — these are concepts I’ve actively applied across my projects in machine learning, NLP, and scalable systems.</p>
 
-🧠 Core Foundations
-Data Structures — Implemented trees, graphs, heaps, and optimized data handling
-Computer Architecture — Explored low-level system design, memory, and performance
-Automata Theory — Studied formal languages, DFA/NFA, and computation models
-⚙️ Systems & Engineering
-Operating Systems — Worked with process scheduling, concurrency, and memory management
-Software Engineering — Built scalable applications in Agile teams using tools like Jira
-🤖 AI & Advanced Algorithms
-Artificial Intelligence — Applied search algorithms, ML fundamentals, and problem-solving techniques
-Advanced Algorithm Design & Analysis — Designed efficient solutions using dynamic programming, greedy algorithms, and complexity analysis
+<h2>📚 Coursework</h2>
+<p>
+  Not just classes — these are concepts I’ve actively applied across my projects in machine learning, NLP, and scalable systems.
+</p>
+
+<h3>🧠 Core Foundations</h3>
+<ul>
+  <li><b>Data Structures</b> — Implemented trees, graphs, heaps, and optimized data handling</li>
+  <li><b>Computer Architecture</b> — Explored low-level system design, memory, and performance</li>
+  <li><b>Automata Theory</b> — Studied formal languages, DFA/NFA, and computation models</li>
+</ul>
+
+<h3>⚙️ Systems & Engineering</h3>
+<ul>
+  <li><b>Operating Systems</b> — Worked with process scheduling, concurrency, and memory management</li>
+  <li><b>Software Engineering</b> — Built scalable applications in Agile teams using tools like Jira</li>
+</ul>
+
+<h3>🤖 AI & Advanced Algorithms</h3>
+<ul>
+  <li><b>Artificial Intelligence</b> — Applied search algorithms, machine learning fundamentals, and problem-solving techniques</li>
+  <li><b>Advanced Algorithm Design & Analysis</b> — Designed efficient solutions using dynamic programming, greedy algorithms, and complexity analysis</li>
+</ul>
+
+<h3>🚀 How I Use This Knowledge</h3>
+<ul>
+  <li>Applying <b>data structures & algorithms</b> to optimize backend systems and ML pipelines</li>
+  <li>Leveraging <b>AI concepts</b> in LLM-powered applications like <i>CreatorXP</i></li>
+  <li>Using <b>systems knowledge</b> to build efficient, scalable APIs with FastAPI</li>
+  <li>Integrating <b>theory + practice</b> in research on LLM optimization and prompt compression</li>
+</ul>
