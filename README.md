@@ -33,25 +33,8 @@ I am an AI Engineer passionate about building AI-driven systems that turn raw da
 ---
 
 ## 📚 My Coursework
-
-<h3>🧠 Core Foundations</h3>
-- <b>Data Structures</b>: Implemented trees, graphs, heaps, and optimized data handling</li>
-- <b>Computer Architecture</b> — Explored low-level system design, memory, and performance</li>
-- <b>Automata Theory</b> — Studied formal languages, DFA/NFA, and computation models</li>
-
-
-
-<h3>⚙️ Systems & Engineering</h3>
-  <p>Operating Systems</b> — Worked with process scheduling, concurrency, and memory management</p>
-  <p>Software Engineering</b> — Built scalable applications in Agile teams using tools like Jira</p>
-
-<h3>🤖 AI & Advanced Algorithms</h3>
-  <p>Artificial Intelligence</b> — Applied search algorithms, machine learning fundamentals, and problem-solving techniques</p>
-  <p>Advanced Algorithm Design & Analysis</b> — Designed efficient solutions using dynamic programming, greedy algorithms, and complexity analysis</p>
-
-<h3>🚀 How I Use This Knowledge</h3>
 <ul>
-  <li>Applying <b>data structures & algorithms</b> to optimize backend systems and ML pipelines</li>
-  <li>Leveraging <b>AI concepts</b> in LLM-powered applications like <i>CreatorXP</i></li>
-  <li>Integrating <b>theory + practice</b> in research on LLM optimization and prompt compression</li>
+  <li><b>Core:</b> Data Structures, Computer Architecture, Automata Theory</li>
+  <li><b>Systems:</b> Operating Systems, Software Engineering</li>
+  <li><b>AI & Algorithms:</b> Artificial Intelligence, Advanced Algorithm Design & Analysis</li>
 </ul>
