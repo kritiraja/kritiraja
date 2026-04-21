@@ -35,9 +35,10 @@ I am an AI Engineer passionate about building AI-driven systems that turn raw da
 ## 📚 My Coursework
 
 <h3>🧠 Core Foundations</h3>
-- <p>Data Structures</b> — Implemented trees, graphs, heaps, and optimized data handling</p>
-- <p>Computer Architecture</b> — Explored low-level system design, memory, and performance</p>
-- <p>Automata Theory</b> — Studied formal languages, DFA/NFA, and computation models</p>
+- <b>Data Structures</b>: Implemented trees, graphs, heaps, and optimized data handling</li>
+- <b>Computer Architecture</b> — Explored low-level system design, memory, and performance</li>
+- <b>Automata Theory</b> — Studied formal languages, DFA/NFA, and computation models</li>
+
 
 
 <h3>⚙️ Systems & Engineering</h3>
