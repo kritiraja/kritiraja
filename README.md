@@ -29,12 +29,8 @@ I am an AI Engineer passionate about building AI-driven systems that turn raw da
 - **[Ordering and Management System](https://github.com/kritiraja/SC2002_FOMS.git)**: Java-based application constructed using OOP principles and includes features of SHA-3 hashing and user roles.
 - **[EcoTaxi Web App](https://github.com/lukea11/eco-taxi-backend-trip-service.git)**: Java-based backend microservice for EcoTaxi web app using SWE principles
 
-\n
 ## 📚 My Coursework
 
-<p>Not just classes — these are concepts I’ve actively applied across my projects in machine learning, NLP, and scalable systems.</p>
-
-<h2>📚 Coursework</h2>
 <p>
   Not just classes — these are concepts I’ve actively applied across my projects in machine learning, NLP, and scalable systems.
 </p>
