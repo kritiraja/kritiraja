@@ -3,7 +3,7 @@
 
 <h2>🚀 About Me</h2>
 
-Dallas, Texas | 📩 rkriti16@gmail.com | <a href="https://www.https://www.linkedin.com/in/kritiraja/">[linkedin.com/in/kritiraja/}</a>
+Dallas, Texas | 📩 rkriti16@gmail.com | <a href="https://www.https://www.linkedin.com/in/kritiraja/">linkedin.com/in/kritiraja/</a>
 
 <p>
 I am an AI Engineer passionate about building AI-driven systems that turn raw data into actionable insights. My work sits at the intersection of machine learning, NLP, and scalable backend systems.
