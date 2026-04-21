@@ -57,6 +57,5 @@ I am an AI Engineer passionate about building AI-driven systems that turn raw da
 <ul>
   <li>Applying <b>data structures & algorithms</b> to optimize backend systems and ML pipelines</li>
   <li>Leveraging <b>AI concepts</b> in LLM-powered applications like <i>CreatorXP</i></li>
-  <li>Using <b>systems knowledge</b> to build efficient, scalable APIs with FastAPI</li>
   <li>Integrating <b>theory + practice</b> in research on LLM optimization and prompt compression</li>
 </ul>
