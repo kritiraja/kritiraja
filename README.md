@@ -35,23 +35,18 @@ I am an AI Engineer passionate about building AI-driven systems that turn raw da
 ## 📚 My Coursework
 
 <h3>🧠 Core Foundations</h3>
-<ul>
-  <li><b>Data Structures</b> — Implemented trees, graphs, heaps, and optimized data handling</li>
-  <li><b>Computer Architecture</b> — Explored low-level system design, memory, and performance</li>
-  <li><b>Automata Theory</b> — Studied formal languages, DFA/NFA, and computation models</li>
-</ul>
+  <p>Data Structures</b> — Implemented trees, graphs, heaps, and optimized data handling</p>
+  <p>Computer Architecture</b> — Explored low-level system design, memory, and performance</p>
+  <p>Automata Theory</b> — Studied formal languages, DFA/NFA, and computation models</p>
+
 
 <h3>⚙️ Systems & Engineering</h3>
-<ul>
-  <li><b>Operating Systems</b> — Worked with process scheduling, concurrency, and memory management</li>
-  <li><b>Software Engineering</b> — Built scalable applications in Agile teams using tools like Jira</li>
-</ul>
+  <p>Operating Systems</b> — Worked with process scheduling, concurrency, and memory management</p>
+  <p>Software Engineering</b> — Built scalable applications in Agile teams using tools like Jira</p>
 
 <h3>🤖 AI & Advanced Algorithms</h3>
-<ul>
-  <li><b>Artificial Intelligence</b> — Applied search algorithms, machine learning fundamentals, and problem-solving techniques</li>
-  <li><b>Advanced Algorithm Design & Analysis</b> — Designed efficient solutions using dynamic programming, greedy algorithms, and complexity analysis</li>
-</ul>
+  <p>Artificial Intelligence</b> — Applied search algorithms, machine learning fundamentals, and problem-solving techniques</p>
+  <p>Advanced Algorithm Design & Analysis</b> — Designed efficient solutions using dynamic programming, greedy algorithms, and complexity analysis</p>
 
 <h3>🚀 How I Use This Knowledge</h3>
 <ul>
